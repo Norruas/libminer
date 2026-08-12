@@ -8,6 +8,7 @@
 #'
 #' @examples
 #' lib_summary()
+#' lib_summary(sizes = TRUE)
 lib_summary <- function(sizes = FALSE) {
   pkgs <- utils::installed.packages()
   pkg_tbl <- table(pkgs[, "LibPath"])
