@@ -7,7 +7,7 @@ Description: Provides functions to check the R packages
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-URL: https://github.com/Norruas/libminer
+URL: https://github.com/Norruas/libminer, https://norruas.github.io/libminer/
 BugReports: https://github.com/Norruas/libminer/issues
 Config/roxygen2/version: 8.1.0
 Suggests: 
